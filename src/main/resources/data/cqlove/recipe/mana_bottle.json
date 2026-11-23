@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:experience_bottle",
+    "#minecraft:flowers"
+  ],
+  "result": {
+    "count": 1,
+    "id": "cqlove:mana_bottle"
+  }
+}

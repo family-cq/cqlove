@@ -1,0 +1,14 @@
+pluginManagement {
+    repositories {
+        // maven.neoforged.net 在国内被阻断（CDN77 不可达），改用官方备用 CDN
+        maven {
+            name = 'NeoForgedCDN'
+            url = 'https://neoforged.forgecdn.net/releases'
+        }
+        gradlePluginPortal()
+    }
+}
+
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '1.0.0'
+}

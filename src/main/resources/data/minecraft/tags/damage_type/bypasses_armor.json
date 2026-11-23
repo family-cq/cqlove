@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "cqlove:magic_thunder",
+    "cqlove:magic_fire",
+    "cqlove:magic_wind",
+    "cqlove:magic_water",
+    "cqlove:magic_light",
+    "cqlove:magic_earth",
+    "cqlove:magic_ice",
+    "cqlove:magic_mind",
+    "cqlove:magic_poison",
+    "cqlove:magic_heal",
+    "cqlove:magic_summon",
+    "cqlove:magic_sound",
+    "cqlove:magic_shadow",
+    "cqlove:magic_plant",
+    "cqlove:magic_space",
+    "cqlove:magic_bless",
+    "cqlove:magic_undead",
+    "cqlove:magic_curse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.cqgzs.cqlove.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "IntegratedServerMixin",
+    "UUIDUtilMixin"
+  ],
+  "client": [
+    "TextDisplayClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

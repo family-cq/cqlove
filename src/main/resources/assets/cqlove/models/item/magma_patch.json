@@ -1,0 +1,44 @@
+{
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "0": "cqlove:item/magma_patch",
+    "particle": "cqlove:item/magma_patch"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        7.5,
+        0
+      ],
+      "to": [
+        16,
+        8.5,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

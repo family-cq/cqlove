@@ -1,0 +1,44 @@
+{
+  "texture_size": [
+    128,
+    128
+  ],
+  "textures": {
+    "0": "cqlove:item/shield_thunder",
+    "particle": "cqlove:item/shield_thunder"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        7.5
+      ],
+      "to": [
+        16,
+        16,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

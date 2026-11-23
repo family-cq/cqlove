@@ -1,0 +1,44 @@
+{
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "0": "cqlove:item/light_orb",
+    "particle": "cqlove:item/light_orb"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        7.5
+      ],
+      "to": [
+        16,
+        16,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

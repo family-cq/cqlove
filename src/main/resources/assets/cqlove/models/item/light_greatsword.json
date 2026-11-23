@@ -1,0 +1,44 @@
+{
+  "texture_size": [
+    128,
+    384
+  ],
+  "textures": {
+    "0": "cqlove:item/light_greatsword",
+    "particle": "cqlove:item/light_greatsword"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        7.5
+      ],
+      "to": [
+        12,
+        16,
+        8.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

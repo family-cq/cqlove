@@ -1,0 +1,7 @@
+{
+  "exhaustion": 0.0,
+  "message_id": "cqlove.magic_undead",
+  "scaling": "when_caused_by_living_non_player",
+  "effects": "hurt",
+  "death_message_type": "default"
+}
